@@ -11,15 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17495cc-7814-4607-a04b-93f281eae3b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/meetingsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/miscelaneousController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/donate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/groups.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/mechanical.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/vmc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/galeriaController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/homeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/homeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/galeria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/meetingsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/meetingsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/public.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/public.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,8 @@
       <updated>1598108273332</updated>
       <workItem from="1598108274826" duration="3336000" />
       <workItem from="1598269061267" duration="1825000" />
-      <workItem from="1598287492764" duration="4867000" />
+      <workItem from="1598287492764" duration="5218000" />
+      <workItem from="1598296447986" duration="1648000" />
     </task>
     <servers />
   </component>
@@ -91,14 +95,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="635" y="255" width="399" height="539" key="NewPhpClassDialog" timestamp="1598292340629">
+    <state x="635" y="255" width="399" height="539" key="NewPhpClassDialog" timestamp="1598297612478">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="635" y="255" width="399" height="539" key="NewPhpClassDialog/166.1050.1366.768/0.0.1680.1050@0.0.1680.1050" timestamp="1598292340629" />
-    <state x="637" y="421" width="319" height="146" key="NewPhpFileDialog" timestamp="1598291724561">
+    <state x="635" y="255" width="399" height="539" key="NewPhpClassDialog/166.1050.1366.768/0.0.1680.1050@0.0.1680.1050" timestamp="1598297612478" />
+    <state x="637" y="421" width="319" height="146" key="NewPhpFileDialog" timestamp="1598297698068">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="518" y="324" width="319" height="146" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1598120290319" />
-    <state x="637" y="421" key="NewPhpFileDialog/166.1050.1366.768/0.0.1680.1050@0.0.1680.1050" timestamp="1598291724561" />
+    <state x="637" y="421" width="319" height="146" key="NewPhpFileDialog/166.1050.1366.768/0.0.1680.1050@0.0.1680.1050" timestamp="1598297698068" />
   </component>
 </project>
