@@ -1,0 +1,1 @@
+<h1>Bem vindo à galeria de imagens</h1>
