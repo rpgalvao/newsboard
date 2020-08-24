@@ -1,11 +1,12 @@
 <?php
 
-class homeController extends Controller {
+class homeController extends Controller
+{
 
-	public function index() {
-		$dados = array();
+    public function index()
+    {
+        $dados = array();
 
-		
-		$this->loadTemplate('home', $dados);
-	}
+        $this->loadTemplate('home', $dados);
+    }
 }

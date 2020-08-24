@@ -17,8 +17,14 @@
     <p>
         <?php $this->loadViewInTemplate($viewName, $viewData); ?>
     </p>
+    <hr>
     <footer>
         <h1>Congregação Vila Bela</h1>
+        <h2>(1420)</h2>
+        <p>Rua Costa Barros, 96 <br>Vila Alpina - São Paulo/SP</p>
+        <h2>Dias e Horários</h2>
+        <h5>Quinta-feira: 19:45h</h5>
+        <h5>Domingo: 18:30h</h5>
     </footer>
 </div>
 </body>

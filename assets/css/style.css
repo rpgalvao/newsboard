@@ -25,6 +25,8 @@ header h2 {
 }
 .news_main {
 	width: 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -37,6 +39,8 @@ header h2 {
 }
 .news_item img {
 	padding: 10px;
+	display: block;
+	margin: auto;
 }
 .news_item a {
 	text-decoration: none;
@@ -45,8 +49,9 @@ header h2 {
 }
 footer {
 	padding: 40px 0;
+	text-align: center;
 }
 
-footer h1 {
-	text-align: center;
+footer p {
+	margin: 20px 0;
 }
